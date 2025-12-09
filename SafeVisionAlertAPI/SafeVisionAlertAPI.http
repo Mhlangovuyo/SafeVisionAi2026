@@ -1,0 +1,6 @@
+@SafeVisionAlertAPI_HostAddress = http://localhost:5089
+
+GET {{SafeVisionAlertAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

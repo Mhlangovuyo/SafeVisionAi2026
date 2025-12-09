@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Dcm0YU3JsE=",
+  "success": true,
+  "projectFilePath": "/Users/mhlangovuyobalfour/SafeVisionAI/SafeVisionAlertAPI/SafeVisionAlertAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mhlangovuyobalfour/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/mhlangovuyobalfour/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
