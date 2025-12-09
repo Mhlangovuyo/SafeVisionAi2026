@@ -1,22 +1,15 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.sqlite3
 
-# Virtual Environment
+# Virtual environment
 venv/
+ai-engine/venv/
 
-# IDEs
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# macOS
+# OS files
 .DS_Store
 
-# Models (optional if too big)
-*.pt
+# Large AI models
+ultralytics/
