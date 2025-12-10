@@ -13,3 +13,6 @@ ai-engine/venv/
 
 # Large AI models
 ultralytics/
+
+ai-engine/venv/
+ai-engine/yolov8n.pt
