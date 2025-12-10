@@ -16,3 +16,5 @@ ultralytics/
 
 ai-engine/venv/
 ai-engine/yolov8n.pt
+gun-detection/
+Weapon-Detection-using-Artificial-Intelligence/
